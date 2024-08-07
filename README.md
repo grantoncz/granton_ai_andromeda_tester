@@ -22,8 +22,8 @@ Before running the script, ensure you have the following installed:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/your-repo.git
-   cd your-repo
+   git clone https://github.com/grantoncz/granton_ai_andromeda_tester.git
+   cd granton_ai_andromeda_tester
    ```
 
 2. **Install required Python packages:**
